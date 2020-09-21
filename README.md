@@ -23,3 +23,18 @@ Facebook  : https://m.facebook.com/shubham.gosain.980
 
 Telegram :
 https://t.me/ShuBham_g0sain
+
+
+### INSTALLATION [ TERMUX APP --ANDROID ]
+* git clone https://github.com/ShuBhamg0sain/SPhishing.git
+* cd SPhishing/
+* chmod 777 *
+* ./Android-Setup.sh
+* ./SPhishing.sh
+
+### INSTALLATION [ KALI ]
+* git clone https://github.com/ShuBhamg0sain/SPhishing.git
+* cd SPhishing/
+* chmod 777 *
+* ./Linux-Setup.sh
+* ./SPhishing.sh
