@@ -33,6 +33,11 @@ https://t.me/ShuBham_g0sain
 * ./Android-Setup.sh
 * ./SPhishing.sh
 
+Run by 
+
+* ls
+* bash SPhishing.sh
+
 ### INSTALLATION [ KALI ]
 * git clone https://github.com/ShuBhamg0sain/SPhishing.git
 * cd SPhishing/
