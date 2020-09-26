@@ -27,7 +27,7 @@ https://t.me/ShuBham_g0sain
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/SPhish/master/Screenshot/Screenshot_20200926_234411.jpg)
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/ShuBhamg0sain/SPhishing.git
+* git clone https://github.com/ShuBhamg0sain/SPhish.git
 * cd SPhishing/
 * chmod 777 *
 * ./Android-Setup.sh
