@@ -35,4 +35,4 @@ Run by
 ### INSTALLATION [ KALI ]
 * git clone https://github.com/ShuBhamg0sain/SPhish.git
 * cd SPhish
-* bash 
+* bash SPhishing.sh
