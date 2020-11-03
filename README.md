@@ -25,10 +25,7 @@ Telegram : https://t.me/ShuBham_g0sain
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
 * git clone https://github.com/ShuBhamg0sain/SPhish.git
-* cd SPhishing/
-* chmod 777 *
-* ./Android-Setup.sh
-* ./SPhishing.sh
+* cd SPhis
 
 Run by 
 
@@ -36,8 +33,6 @@ Run by
 * bash SPhishing.sh
 
 ### INSTALLATION [ KALI ]
-* git clone https://github.com/ShuBhamg0sain/SPhishing.git
-* cd SPhishing/
-* chmod 777 *
-* ./Linux-Setup.sh
-* ./SPhishing.sh
+* git clone https://github.com/ShuBhamg0sain/SPhish.git
+* cd SPhish
+* bash 
