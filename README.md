@@ -8,14 +8,12 @@
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
 * git clone https://github.com/ShuBhamg0sain/SPhish.git
-* cd SPhis
-
-Run by 
+* cd SPhish
 
 * ls
 * bash SPhishing.sh
 
 ### INSTALLATION [ KALI ]
-* git clone https://github.com/ShuBhamg0sain/SPhish.git
-* cd SPhish
-* bash SPhishing.sh
+ git clone https://github.com/ShuBhamg0sain/SPhish.git
+ cd SPhish
+ bash SPhishing.sh
